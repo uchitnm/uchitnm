@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @uchitnm
-- 👀 I’m interested in Python3 , Shell , Unix , Physics etc.
+- 👀 I’m interested in Python3 , Shell Script , Unix , Physics etc.
 - 🌱 I’m currently learning Python3 
-- 🤔 I’m currntly aiming to secure a good collage.
+- 🤔 I’m currntly aiming to secure a good college.
 - 📫 How to reach me GitHub.
 - 
 <!---
