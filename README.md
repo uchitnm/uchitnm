@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @uchitnm
 - 👀 I’m interested in Python3 , Shell , Unix , Physics etc.
 - 🌱 I’m currently learning Python3 
-- 🤔 I’m currntly aiming to secure a good collange.
+- 🤔 I’m currntly aiming to secure a good collage.
 - 📫 How to reach me GitHub.
 - 
 <!---
