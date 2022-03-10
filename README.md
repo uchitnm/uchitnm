@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @uchitnm 
-- µ€h!t.η.m👈
+- µ€h!t.η.m 👈
 - 👀 I’m interested in Python3 , Shell Script , Unix , Physics etc.
 - 🌱 I’m currently learning Python3 
 - 🤔 I’m currntly aiming to secure a good college.
