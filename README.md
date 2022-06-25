@@ -2,7 +2,7 @@
 - µ€h!t.η.m 👈
 - Ουτσιτ.n.m 😁
 - 👀 I’m interested in Python3 , Shell Script , Unix , Physics etc.
-- 🌱 I’m currently learning Python3 
+- 🌱 I’m currently learning Python3, C 
 - 🤔 I’m currntly aiming to secure a good college.
 - 📫 How to reach me @ GitHub.
 -  
