@@ -1,4 +1,4 @@
-#- 👋 Hi, I’m @uchitnm 
+# - 👋 Hi, I’m @uchitnm 
 - µ€h!t.η.m 👈
 - Ουτσιτ.n.m 😁
 - 👀 I’m interested in Python3 , Shell Script , Unix && Linux, Physics etc.
