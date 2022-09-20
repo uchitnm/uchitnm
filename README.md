@@ -7,8 +7,9 @@
   :Pandas 
   :C
   :Shell
+  :Rust
 - I'll soon learn GoLang, JS and may be CSS....
-- 🤔 I’m currntly aiming to secure a good college.
+# - 🤔 I’m currntly aiming to secure a good college.
 - 📫 How to reach me @ GitHub.
 -  
 <!---
