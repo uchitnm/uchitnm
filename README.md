@@ -1,14 +1,14 @@
 # 👋 Hi, I’m @uchitnm 
 - µ€h!t.η.m 👈
 - Ουτσιτ.n.m 😁
-- 👀 I’m interested in Python3 , Shell Script , Unix && Linux, Physics etc.
+- 👀 I’m interested in Python3 , Shell Script , Unix && Linux, Assiembly, Physics etc.
 - 🌱 I’m currently learning 
   :Python3
   :Pandas 
   :C
   :Shell
   :Rust
-- I'll soon learn GoLang, JS and may be CSS....
+- I'll soon learn GoLang, X86, JS and may be CSS....
 - 📫 How to reach me @ GitHub.
 -  
 <!---
