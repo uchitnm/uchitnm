@@ -3,10 +3,10 @@
 - Ουτσιτ.n.m 😁
 - 👀 I’m interested in Python3 , Shell Script , Unix && Linux, Assiembly, Physics etc.
 - 🌱 I’m currently learning 
-    :Python3
-    :C
-    :Shell
-    :Pandas 
+    +Python3
+    +C
+    +Shell
+    +Pandas 
 - I'll soon learn GoLang, X86, Rust, JS and may be CSS....
 - 📫 How to reach me @ GitHub.
 -  
