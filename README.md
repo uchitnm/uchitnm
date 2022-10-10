@@ -10,10 +10,12 @@
 - I'll soon learn GoLang, X86, Rust, JS and may be CSS....
 - 📫 How to reach me @ GitHub.
 -  
-- 
+---
+
 [![Uchit's GitHub stats](https://github-readme-stats.vercel.app/api?username=uchitnm&count_private=true&show_icons=true&theme=cobalt)](https://github.com/uchitnm)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=uchitnm&layout=compact)](https://github.com/uchitnm)
+
 <!---
 uchitnm/uchitnm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
