@@ -14,15 +14,21 @@
 ## 🧰 Languages and Tools:
 <p align="center">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg" alt="VIM" height="40" style="vertical-align:top; margin:4px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/31/ITerm2_v3.4_icon.png" alt="iTerm2" height="40" style="vertical-align:top; margin:4px">
+
+
 </p>
+
 
 ### GitHub Stats
 
 [![Uchit's GitHub stats](https://github-readme-stats.vercel.app/api?username=uchitnm&count_private=true&show_icons=true&theme=cobalt)](https://github.com/uchitnm)
+### My languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uchitnm&theme=tokyonight)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=uchitnm&layout=compact)](https://github.com/uchitnm)
+<!-- [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=uchitnm&layout=compact)](https://github.com/uchitnm) -->
 
 <!-- ![](https://komarev.com/ghpvc/?username=uchitnm) -->
 
