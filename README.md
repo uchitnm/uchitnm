@@ -6,7 +6,7 @@
     + C
     + Shell
     + Pandas 
-- I'll soon learn GoLang, X86, Rust, JS and may be CSS....
+- I'll soon learn GoLang, X86, Rust, JS, Node&React....
 - 📫 How to reach me @ GitHub.
 -  
 ---
