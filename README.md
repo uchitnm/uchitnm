@@ -27,7 +27,7 @@
 
 [![Uchit's GitHub stats](https://github-readme-stats.vercel.app/api?username=uchitnm&count_private=true&show_icons=true&theme=cobalt)](https://github.com/uchitnm)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uchitnm&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=uchitnm&layout=compact)](https://github.com/uchitnm)
 
 <!-- [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=uchitnm&layout=compact)](https://github.com/uchitnm) -->
 
