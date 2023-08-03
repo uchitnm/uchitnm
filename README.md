@@ -12,15 +12,12 @@
 
 ## 🧰 Languages and Tools:
 <p align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" height="40" style="vertical-align:top; margin:4px">
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg" alt="VIM" height="40" style="vertical-align:top; margin:4px">
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/31/ITerm2_v3.4_icon.png" alt="iTerm2" height="40" style="vertical-align:top; margin:4px">
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Z_Shell_Logo_Color_Horizontal.svg" alt="zsh" height="40" style="vertical-align:top; margin:4px">
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C" height="40" style="vertical-align:top; margin:4px">
-
-
-<code><a href="https://code.visualstudio.com" target="_blank"> </code>
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" height="40" style="vertical-align:top; margin:10px" >
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VS Code" height="40" style="vertical-align:top; margin:10px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg" alt="VIM" height="40" style="vertical-align:top; margin:10px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/31/ITerm2_v3.4_icon.png" alt="iTerm2" height="40" style="vertical-align:top; margin:10px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Z_Shell_Logo_Color_Horizontal.svg" alt="zsh" height="40" style="vertical-align:top; margin:10px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C" height="40" style="vertical-align:top; margin:10px">
 
 
 </p>
