@@ -8,7 +8,10 @@
     + Python3
     + C
     + Shell
-- I'll soon learn GoLang, X86, Rust, JS, Node&React ...
+    + C++
+    + JS, HTML, CSS
+    + React
+- I'll soon learn GoLang, X86, Rust ...
 - 📫 How to reach me @ GitHub.
 -  
 ---
