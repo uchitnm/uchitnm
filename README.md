@@ -2,16 +2,17 @@
 
 ---
 
-* B'Tech C.S.E student @ PESU R.R
-- 👀 I’m interested in Python3 , Shell Script , Unix & Linux, Assiembly, etc.
-- 🌱 I’m currently progressing in  
+* B'Tech C.S.E student @ PESU R.R Campus
+- 🌱 I’m proficient in  
     + Python3
     + C
     + Shell
     + C++
     + JS, HTML, CSS
     + React
-- I'll soon learn GoLang, X86, Rust ...
+ - I'm currently learning GoLang, AMR ...
+ - Intresed to learn Rust ...
+- 👀 I’m interested Unix & Linux Machines, Computer Networking, etc.
 - 📫 How to reach me @ GitHub.
 -  
 ---
