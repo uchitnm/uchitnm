@@ -19,9 +19,10 @@
 
 ## 🖊️ Languages:
 <p align="center">
-    
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" height="40" style="vertical-align:top; margin:10px" >
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C" height="40" style="vertical-align:top; margin:10px">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,py,cpp,go" />
+  </a>
+</p>
 
 ## Tools 🧰 :
 
