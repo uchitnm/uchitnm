@@ -20,7 +20,7 @@
 ## 🖊️ Languages:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,py,cpp,go" />
+    <img src="https://skillicons.dev/icons?i=c,py,cpp,go,js" />
   </a>
 </p>
 
@@ -28,9 +28,19 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=git,github,docker,vim,bash,vscode"/>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/ITerm2_v3.4_icon.png" alt="iTerm2" height="40" style="vertical-align:top; margin:10px">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Z_Shell_Logo_Color_Horizontal.svg" alt="zsh" height="40" style="vertical-align:top; margin:10px">
+        <img src="https://skillicons.dev/icons?i=git,github,docker,vim,bash,vscode,apple,windows"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/ITerm2_v3.4_icon.png" alt="iTerm2" height="50" style="vertical-align:top; margin:10px">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Z_Shell_Logo_Color_Horizontal.svg" alt="zsh" height="50" style="vertical-align:top; margin:10px">
+  </a>
+</p>
+
+</p>
+
+## Frameworks 🧰 :
+
+<p align="center">
+  <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=tensorflow,react,opencv,nodejs,jquery"/>
   </a>
 </p>
 
