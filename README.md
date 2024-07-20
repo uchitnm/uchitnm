@@ -16,7 +16,7 @@
   </a>
 </p>
 
-- 🌱 I’m proficient in  
+- 🌱 also proficient in  
     + ARM
 
 ## Tools 🧰 & Frameworks 🧰:
