@@ -52,10 +52,12 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=uchitnm&show_icons=true&theme=tokyonight&line_height=27" alt="uchitnm github stats"/>
 </a>
 
-<!-- ![](https://komarev.com/ghpvc/?username=uchitnm) -->
+---
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=uchitnm&no-frame=false&no-bg=true)
 
-<!---
-uchitnm/uchitnm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=uchitnm&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+
 
