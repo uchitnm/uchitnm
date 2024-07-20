@@ -3,38 +3,31 @@
 ---
 
 * B'Tech C.S.E student @ PESU R.R Campus
+- 👀 I’m interested Unix & Linux Machines, Computer Networking, Deeplearning, ImageProcessing ,etc.
 - I'm currently learning  Tensorflow, pytorch ...
 - Interested to learn Rust ...
-- 👀 I’m interested Unix & Linux Machines, Computer Networking, Deeplearning, ImageProcessing ,etc.
 - 📫 How to reach me @ GitHub only.
--  
 ---
 
 ## 🖊️ Languages:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,py,cpp,go,js" />
+    <img src="https://skillicons.dev/icons?i=c,py,cpp,go,js,sh" />
   </a>
 </p>
 
 - 🌱 I’m proficient in  
-    + Python3
-    + C
-    + C++
-    + Go
-    + Shell
-    + JS, HTML, CSS, React
     + ARM
 
 ## Tools 🧰 & Frameworks 🧰:
 
 <p align="center">
   <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=git,github,docker,vim,bash,vscode,apple,windows"/>
+        <img src="https://skillicons.dev/icons?i=git,github,docker,vim,bash,vscode,apple,windows,html,md,mysql,mongodb,postman"/>
         <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/ITerm2_v3.4_icon.png" alt="iTerm2" height="50" style="vertical-align:top; margin:10px">
         <img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Z_Shell_Logo_Color_Horizontal.svg" alt="zsh" height="50" style="vertical-align:top; margin:10px">
         <br/>
-        <img src="https://skillicons.dev/icons?i=tensorflow,opencv,sklearn,react,nodejs,jquery"/>
+        <img src="https://skillicons.dev/icons?i=tensorflow,opencv,pytorch,sklearn,react,nodejs,jquery,css,"/>
 
   </a>
 </p>
