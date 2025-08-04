@@ -2,10 +2,9 @@
 
 ---
 
-* B'Tech C.S.E student @ PESU R.R Campus
-- 👀 I’m interested Unix & Linux Machines, Computer Networking, Deeplearning, ImageProcessing ,etc.
-- I'm currently learning  Tensorflow, pytorch ...
-- Interested to learn Rust ...
+* B.Tech CSE Student @ PES University, RR Campus
+- 👀  I'm a highly motivated Software Engineer passionate about about System Design, Operating Systems, Computer Networks, and UNIX technologies
+- Interested lies in OS, Computer Networking, Deeplearning.
 - 📫 How to reach me @ GitHub only.
 ---
 
